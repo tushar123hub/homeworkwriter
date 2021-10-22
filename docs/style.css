@@ -9,7 +9,7 @@ iframe{
     height: calc(170vh - 90px);
     overflow-x: hidden;
 }
-    @media (max-width: 11px){
+    @media (max-width: 850px){
         iframe{
             height: calc(400vh - 90px);
         }
