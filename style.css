@@ -1,0 +1,16 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    text-align: center;
+}
+iframe{
+    width: 100%;
+    height: calc(200vh - 90px);
+    overflow-x: hidden;
+}
+    @media (max-width: 850px){
+        iframe{
+            height: calc(435vh - 90px);
+        }
+    }
