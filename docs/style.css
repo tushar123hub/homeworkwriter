@@ -11,6 +11,6 @@ iframe{
 }
     @media (max-width: 850px){
         *{
-            height: 200%;
+            height: 200vw;
         }
     }
